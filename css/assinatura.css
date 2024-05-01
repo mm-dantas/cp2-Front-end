@@ -92,4 +92,10 @@ footer{
     height: 200px;
     color: #ccc;
 }
+.fixarRodape {
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    /* text-align: center; */
+}
 /* rodapé */
