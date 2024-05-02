@@ -21,12 +21,9 @@ Este é um projeto frontend desenvolvido pela equipe da FIAP para criar um prot�
 - criarconta.html: Página de cadastro.
 - login.html: Página de login.
 - nossaVinheria.html: Página "Sobre Nós".
-- arearestria.html: Página que bloqueia usuários menores de idade.
-- contato.html: Pagina para contato (em desenvolvimento)
 - Freixenet Pinot Grigio.html: Exemplo de uma pagina de vinho que iremos vender.
 - Luiz Argenta Jovem Red Audrey.html: Exemplo de uma pagina de vinho que iremos vender.
 - Manus Liberum Barbera Clairet Rosé.html: Exemplo de uma pagina de vinho que iremos vender.
-- telainicial.html: Página inical onde pergunta a idade do usuário e dependendo de sua resposta limita a utilização do site.
 
 ## Além disso, o projeto inclui:
 - css/: Diretório contendo arquivos CSS para estilos personalizados do site.
