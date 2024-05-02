@@ -49,6 +49,7 @@ section{
     height: 1000px;
     display: flex;
     flex-direction: column;
+   
 }
 
 .vinhos{
@@ -77,6 +78,10 @@ section{
     justify-content: center;
     flex-direction: column;
     transition: transform 0.5s ease;
+  }
+
+  .nomeProduto{
+    text-align: center;
   }
 
 .box:hover {
