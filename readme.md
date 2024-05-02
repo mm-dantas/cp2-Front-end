@@ -22,7 +22,7 @@ Este é um projeto frontend desenvolvido pela equipe da FIAP para criar um prot�
 - login.html: Página de login.
 - nossaVinheria.html: Página "Sobre Nós".
 - arearestria.html: Página que bloqueia usuários menores de idade.
-- contato.html: 
+- contato.html: Pagina para contato (em desenvolvimento)
 - Freixenet Pinot Grigio.html: Exemplo de uma pagina de vinho que iremos vender.
 - Luiz Argenta Jovem Red Audrey.html: Exemplo de uma pagina de vinho que iremos vender.
 - Manus Liberum Barbera Clairet Rosé.html: Exemplo de uma pagina de vinho que iremos vender.
@@ -35,4 +35,4 @@ Este é um projeto frontend desenvolvido pela equipe da FIAP para criar um prot�
 - README.md: Documentação do projeto, fornecendo informações sobre a estrutura, a equipe de desenvolvimento, as tecnologias utilizadas e instruções de uso.
 
 ## Instruções de Uso
-- Entre no link do nosso projeto e aproveite: 
+- Entre no link do nosso projeto e aproveite: https://mm-dantas.github.io/cp2-Front-end/
