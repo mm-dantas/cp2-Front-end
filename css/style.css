@@ -31,9 +31,15 @@ header{
 
 a{
     color: white;
-    margin: 5px 25px 0 25px;
+    margin: 0px 20px 0 20px;
+    padding: 5px;
     font-size: 20px;
     text-decoration: none;
+    transition: background-color 0.5s ease;
+}
+
+a:hover{
+    background-color: #4e4949;
 }
 
 i{
@@ -95,7 +101,21 @@ section{
 
 .vinho{
     margin-top: 18px;
-    height: 11rem;
+    height: 10rem;
+    transition: transform 0.5s ease;
+}
+
+.vinho:hover{
+    animation: rodar linear 2s infinite alternate;
+}
+
+@keyframes rodar {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
 }
 
 .detalhes{
@@ -104,6 +124,11 @@ section{
     display: flex;
     justify-content: center;
     align-items: center;
+    transition: background-color 0.9s ease;
+}
+
+.detalhes:hover{
+    background-color: #4e4949;
 }
 
 .compra:hover{
