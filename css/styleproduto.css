@@ -64,6 +64,10 @@ section{
     width: 50%;
 }
 
+ul.descrição{
+    list-style-type: circle;
+}
+
 .item {
     flex: 1; 
     margin: 10px; 
