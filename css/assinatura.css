@@ -44,6 +44,19 @@ i{
 
 /* section */
 
+.assinatura{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.item{
+    margin-left: 60px;
+    margin-right: 50px ;
+    font-size: 20px;
+    text-align: center;
+}
 
 .container-produtos{
     display: flex;
@@ -70,7 +83,7 @@ i{
     height: 11rem;
 }
 
-.button {
+/* .button {
     width: 100%;
     padding: 10px;
     background-color: #660000;
@@ -78,13 +91,32 @@ i{
     border: none;
     border-radius: 5px;
     cursor: pointer;
-  }
+  } */
 
 .detalhes{
     background-color: #e2e0e0;
     height: 100%;
 }
-/* section */
+
+.títuloassinatura{
+    text-align: center;
+}
+
+.descrição{
+    text-align: center;
+}
+
+.botao{
+    /* margin-left: 25%; */
+    width: 100%;
+    padding: 7px;
+    background-color: #660000;
+    color: white;
+    border: none;
+    /* border-radius: 5px; */
+    cursor: pointer;
+} 
+/* section
 
 /* rodapé */
 footer{
