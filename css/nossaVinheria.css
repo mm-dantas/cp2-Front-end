@@ -49,6 +49,7 @@ section{
     justify-content: space-between;
 }
 
+
 .item {
     width: 49%;
 }
@@ -72,13 +73,17 @@ article img{
 }
 
 .nss-vinh{
-    font-size: 60px;
+    font-size: 70px;
     font-family: Arial, Helvetica, sans-serif;    
+    margin-bottom: 70px;
+    
 }
 
 .texto{
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
+    margin-right: 100px;
+   
 }
 /* section */
 .texto {
