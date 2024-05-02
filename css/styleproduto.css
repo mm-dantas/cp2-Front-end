@@ -4,15 +4,24 @@
 }
 
 /* header */
+
+.titulo{
+    height: 60%;
+    border: 3px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .nome{
     font-family:sans-serif;
     font-size: 2em;
     color: white;
 }
 
-.titulo{
-    height: 60%;
-    border: 3px solid black;
+.opcoes{
+    display: flex;
+    justify-content: center;
 }
 
 header{
@@ -22,13 +31,20 @@ header{
 
 a{
     color: white;
-    margin: 25px;
+    margin: 0px 20px 0 20px;
+    padding: 5px;
     font-size: 20px;
     text-decoration: none;
+    transition: background-color 0.5s ease;
+}
+
+a:hover{
+    background-color: #4e4949;
 }
 
 i{
     color: white;
+    margin: 5px 0 0 25px;
 }
 /* header */
 
